@@ -25,8 +25,7 @@
   * Copy-Move
   * Retouching
 * **Ground-Truth Masks:** Pixel-level annotations for all manipulated images
-* **Image Format:** JPEG (.jpg)
-* **Image Resolution:** Various resolutions
+* **Image Format:** .jpg, .png, .tif
 * **Post-Processing Conditions:** Images include realistic social media transformations such as compression and resizing.
 
 ---
